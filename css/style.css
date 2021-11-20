@@ -1,0 +1,75 @@
+*{
+    user-select: none;
+}
+nav{
+    width: 80%;
+    margin-left: 10%;
+    background-color:orange;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+nav a
+{
+    border: solid none;
+    top: 20px;
+    padding: 2% 2% 2% 2%;
+    text-decoration: none;
+    color: red;
+    font-size: 100%;
+}
+
+#current{
+    background-color: pink;
+}
+
+header{
+    text-align: center;
+    color: skyblue;
+}
+
+header h3{
+    color:chocolate;
+}
+
+table, form{
+    width: 80%;
+    margin-top: 2%;
+    margin-left: 10%;
+}
+
+table th{
+    border: solid chocolate;
+}
+
+form input{
+    width :30%;
+    height: 30px;
+}
+
+form{
+    text-align: center;
+}
+
+#submitbutton{
+    background: yellow;
+}
+
+.mainsection{
+    text-align: center;
+    color: lightcoral;
+}
+
+.writing1{
+    margin-left: 10%;
+}
+
+.writing2{
+    margin-left: 50%;
+}
+
+table{
+
+    text-align:center;
+}
